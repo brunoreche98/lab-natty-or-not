@@ -1,51 +1,34 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto explora o uso de Inteligências Artificiais (IAs) generativas para criar conteúdos realistas e inovadores. Utilizando IA para gerar texto descritivo e imagens, o objetivo é demonstrar como a IA pode ser aplicada em diversos setores de negócios e como ela pode auxiliar os humanos em suas atividades diárias.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **OpenAI GPT-4**: Utilizado para geração de texto descritivo.
+- **GPT-4 ChatOn**: Utilizado para geração de imagens descritivas.
+- **Pillow (PIL)**: Utilizado para manipulação de imagens.
+- **Requests**: Utilizado para fazer requisições HTTP e obter imagens geradas.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+### Geração de Texto
+Utilizamos o GPT-4 para descrever a importância da IA em vários setores de negócios e ChatOn para gerar uma imagem descritiva sobre o texto gerado.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Texto Gerado
+### Descrições dos Setores:
+
+1. **Setor Financeiro**: Detecta fraudes, gerencia riscos e otimiza investimentos com análise de dados em tempo real.
+2. **Saúde**: Diagnostica doenças, personaliza tratamentos e prevê surtos através da análise de exames e monitoramento remoto.
+3. **Varejo**: Melhora a experiência do cliente com recomendações personalizadas, chatbots e otimização de estoques.
+4. **Manufatura**: Otimiza produção, manutenção preditiva e controle de qualidade com robôs e sensores.
+5. **Transporte e Logística**: Otimiza rotas, prevê demandas e melhora a eficiência com veículos autônomos e gestão de frotas.
+6. **Recursos Humanos**: Auxilia no recrutamento, análise de desempenho e retenção de talentos com algoritmos e ferramentas de análise.
+
+
+Imagem Gerada
+![Texto Alternativo](ChatOn_image.jpg)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar conteúdos realistas utilizando IA é um desafio que envolve a compreensão profunda das capacidades das ferramentas de IA e a elaboração de prompts precisos. Este projeto mostrou como a IA pode ser uma poderosa aliada na criação de textos e imagens, economizando tempo e ampliando a criatividade humana.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
