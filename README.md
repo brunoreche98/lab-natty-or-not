@@ -2,7 +2,8 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Este projeto explora o uso de Inteligências Artificiais (IAs) generativas para criar conteúdos realistas e inovadores. Utilizando IA para gerar texto descritivo e imagens, o objetivo é demonstrar como a IA pode ser aplicada em diversos setores de negócios e como ela pode auxiliar os humanos em suas atividades diárias.
+Este projeto explora o uso de Inteligências Artificiais (IAs) generativas para criar conteúdos realistas e inovadores.
+Utilizando IA para gerar texto descritivo e imagens, o objetivo é demonstrar como a IA pode ser aplicada em diversos setores de negócios e como ela pode auxiliar os humanos em suas atividades diárias.
 
 ## 🤖 Tecnologias Utilizadas
 - **OpenAI GPT-4**: Utilizado para geração de texto descritivo.
@@ -30,5 +31,6 @@ Imagem Gerada
 ![Texto Alternativo](ChatOn_image.jpg)
 
 ## 💭 Reflexão (Opcional)
-Criar conteúdos realistas utilizando IA é um desafio que envolve a compreensão profunda das capacidades das ferramentas de IA e a elaboração de prompts precisos. Este projeto mostrou como a IA pode ser uma poderosa aliada na criação de textos e imagens, economizando tempo e ampliando a criatividade humana.
+Criar conteúdos realistas utilizando IA é um desafio que envolve a compreensão profunda das capacidades das ferramentas de IA e a elaboração de prompts precisos.
+Este projeto mostrou como a IA pode ser uma poderosa aliada na criação de textos e imagens, economizando tempo e ampliando a criatividade humana.
 ```
